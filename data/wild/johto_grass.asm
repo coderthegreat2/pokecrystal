@@ -1243,7 +1243,7 @@ JohtoGrassWildMons:
 	db 3, SENTRET
 	db 2, RATTATA
 	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, SQUIRTLE
 	; day
 	db 2, PIDGEY
 	db 2, SENTRET
@@ -1251,7 +1251,7 @@ JohtoGrassWildMons:
 	db 3, SENTRET
 	db 2, RATTATA
 	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, CHARMANDER
 	; nite
 	db 2, HOOTHOOT
 	db 2, RATTATA
@@ -1259,7 +1259,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 2, RATTATA
 	db 3, HOOTHOOT
-	db 3, HOOTHOOT
+	db 3, BULBASAUR
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_30
