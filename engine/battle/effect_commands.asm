@@ -41,7 +41,6 @@ DoMove:
 ; Get the user's move effect.
 	ld a, BATTLE_VARS_MOVE_EFFECT
 	call GetBattleVar
-	and TYPE_MASK
 	ld c, a
 	ld b, 0
 	ld hl, MoveEffectsPointers
