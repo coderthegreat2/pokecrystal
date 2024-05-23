@@ -474,7 +474,7 @@ AideScript_GivePotion:
 	opentext
 	writetext AideText_GiveYouPotion
 	promptbutton
-	verbosegiveitem POTION
+	verbosegiveitem EXP_SHARE
 	writetext AideText_AlwaysBusy
 	waitbutton
 	closetext
