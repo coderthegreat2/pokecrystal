@@ -1,6 +1,16 @@
 # Pokémon Crystal [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Crystal.
+This is a disassembly of my Pokémon Crystal romhack based on the dissasembly by pret.
+
+It adds new features such as:
+- the physical/special split
+- the fairy type
+- a move relearner
+- the removal of overworld poison damage
+- individual colors for each type of pokeball
+- much more
+
+This romhack is a WIP and may contain bugs.
 
 It builds the following ROMs:
 
